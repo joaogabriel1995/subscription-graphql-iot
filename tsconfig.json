@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
+    "allowJs": true,                                /* Specify what module code is generated. */
+    "esModuleInterop": true,
+    "skipLibCheck": true,                                 /* Skip type checking all .d.ts files. */
+    "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
+    "lib": ["es2018", "esnext.asynciterable"],
+    "strictPropertyInitialization": false
+  },
+  "include": ["src/**/*.ts"]
+}
