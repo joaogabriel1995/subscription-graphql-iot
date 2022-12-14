@@ -7,6 +7,14 @@ type DataMachine {
   OnOff: Int!
 }
 
+type Mutation {
+  createDataMachine(OnOff: Float!): [DataMachine!]!
+}
+
 type Query {
-  hello: [DataMachine!]!
+  getDataMachine: [DataMachine!]!
+}
+
+type Subscription {
+  subscriptionDataMachine: DataMachine!
 }
