@@ -1,0 +1,9 @@
+https://www.apollographql.com/docs/apollo-server/v3/integrations/middleware/#all-supported-packages
+
+https://www.apollographql.com/docs/apollo-server/api/plugin/drain-http-server/
+
+https://typegraphql.com/docs/bootstrap.html#create-typedefs-and-resolvers-map
+
+https://www.apollographql.com/docs/apollo-server/api/express-middleware/
+
+https://www.apollographql.com/docs/apollo-server/integrations/middleware/#apollo-server-express
